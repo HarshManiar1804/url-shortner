@@ -9,7 +9,7 @@ This project provides a basic URL-shortening service implemented in Go. It allow
 
 ## Installation
 
-To use the URL shortener, you need to have Go installed on your system. You can download and install Go from the [official Go website](https://go.dev/).
+To use the URL shortener, you need to have Go installed on your system. You can download and install Go from the [official Go website](https://go.dev/) .
 
 Clone the repository to your local machine:
 
