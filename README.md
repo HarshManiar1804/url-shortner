@@ -55,6 +55,3 @@ curl http://localhost:8080/redirect/abcdef
 
 This will redirect you to the original URL associated with the shortened URL.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
